@@ -42,7 +42,7 @@ INSTALLED_APPS = [
     # 'rest_framework.authtoken',
 
     'drf_yasg',
-
+    'apps.main'
 ] + DEFAULT_INSTALLED_APPS
 
 
